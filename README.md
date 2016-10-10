@@ -1,5 +1,6 @@
 # The TIER Documentation Protocol v2.0 for R
 
+#Project TIER Framework Demo
 ## Overview 
 
 The TIER Documentation Protocol provides instructions for assembling a 
@@ -12,7 +13,9 @@ would need to be able to replicate the data processing and analysis you
 conducted for the project and to reproduce exactly all the results 
 reported in your paper.
 
-## ProjectTIER_R repository
+## ProjectTIER_R_rick repository
+
+#This is Rick's clone of the original ProjectTIER_R repo.
 
 The instructions presented in this repository are written for users of R. 
 In a few places, they use R-specific terminology. For example, we refer to 
